@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Wrts, http://www.wrts.nl/ -->
+<wrts>
+  <lijst id="84262166">
+    <titel>Grandes Lignes 1 HAVO-VWO 4.4</titel>
+    <datum/>
+    <downloaded>Wed, 25 Sep 2013 16:55:49 +0200</downloaded>
+    <created>Mon, 27 May 2013 19:55:40 +0200</created>
+    <updated>Wed, 25 Sep 2013 16:06:59 +0200</updated>
+    <auteur id="2529894">smeets.x@gmail.com</auteur>
+    <taal>
+      <a>Nederlands</a>
+      <b>Frans</b>
+    </taal>
+    <woord>
+      <a>de middelbare school</a>
+      <b>le collège (onderbouw), le lycée (de bovenbouw)</b>
+    </woord>
+    <woord>
+      <a>de school</a>
+      <b>l'école v</b>
+    </woord>
+    <woord>
+      <a>de pauze</a>
+      <b>la récré</b>
+    </woord>
+    <woord>
+      <a>de leraar / lerares</a>
+      <b>le / la prof</b>
+    </woord>
+    <woord>
+      <a>de klas</a>
+      <b>la classe</b>
+    </woord>
+    <woord>
+      <a>de les</a>
+      <b>le cours</b>
+    </woord>
+    <woord>
+      <a>de leerling</a>
+      <b>l'élève m/v</b>
+    </woord>
+    <woord>
+      <a>streng</a>
+      <b>sévère</b>
+    </woord>
+    <woord>
+      <a>verlegen</a>
+      <b>timide</b>
+    </woord>
+    <woord>
+      <a>grappig</a>
+      <b>drôle</b>
+    </woord>
+    <woord>
+      <a>jong</a>
+      <b>jeune</b>
+    </woord>
+    <woord>
+      <a>stom</a>
+      <b>bête</b>
+    </woord>
+    <woord>
+      <a>waardeloos</a>
+      <b>nul</b>
+    </woord>
+    <woord>
+      <a>omdat</a>
+      <b>parce que</b>
+    </woord>
+    <woord>
+      <a>altijd</a>
+      <b>toujours</b>
+    </woord>
+    <woord>
+      <a>de toets</a>
+      <b>le contrôle</b>
+    </woord>
+    <woord>
+      <a>het cijfer</a>
+      <b>la note</b>
+    </woord>
+    <woord>
+      <a>het boek</a>
+      <b>le livre</b>
+    </woord>
+    <woord>
+      <a>de pen</a>
+      <b>le stylo</b>
+    </woord>
+    <woord>
+      <a>het huiswerk</a>
+      <b>les devoirs m mv</b>
+    </woord>
+    <woord>
+      <a>de mobiele telefoon</a>
+      <b>le portable</b>
+    </woord>
+    <woord>
+      <a>het lesrooster</a>
+      <b>l'emploi du temps m</b>
+    </woord>
+    <woord>
+      <a>de dag</a>
+      <b>le jour, la journée</b>
+    </woord>
+    <woord>
+      <a>het (schoolvak)</a>
+      <b>la matière</b>
+    </woord>
+    <woord>
+      <a>Engels</a>
+      <b>l'anglais m</b>
+    </woord>
+    <woord>
+      <a>Frans</a>
+      <b>le français</b>
+    </woord>
+    <woord>
+      <a>wiskunde</a>
+      <b>les maths v mv</b>
+    </woord>
+    <woord>
+      <a>geschiedenis</a>
+      <b>l'histoire v</b>
+    </woord>
+    <woord>
+      <a>aardrijkskunde</a>
+      <b>la géographie</b>
+    </woord>
+    <woord>
+      <a>muziek</a>
+      <b>la musique</b>
+    </woord>
+    <woord>
+      <a>saai</a>
+      <b>casse-pieds</b>
+    </woord>
+    <woord>
+      <a>moeilijk</a>
+      <b>difficile</b>
+    </woord>
+    <woord>
+      <a>makkelijk</a>
+      <b>facile</b>
+    </woord>
+    <woord>
+      <a>na</a>
+      <b>après</b>
+    </woord>
+    <woord>
+      <a>laat</a>
+      <b>tard</b>
+    </woord>
+    <woord>
+      <a>te laat</a>
+      <b>en retard</b>
+    </woord>
+    <woord>
+      <a>de week</a>
+      <b>la semaine</b>
+    </woord>
+    <woord>
+      <a>met de bus</a>
+      <b>en bus</b>
+    </woord>
+    <woord>
+      <a>met de metro</a>
+      <b>en métro</b>
+    </woord>
+    <woord>
+      <a>met de auto</a>
+      <b>en voiture</b>
+    </woord>
+    <woord>
+      <a>met de fiets</a>
+      <b>en vélo</b>
+    </woord>
+    <woord>
+      <a>te voet</a>
+      <b>à pied</b>
+    </woord>
+    <woord>
+      <a>langzaam</a>
+      <b>lent</b>
+    </woord>
+    <woord>
+      <a>snel</a>
+      <b>vite</b>
+    </woord>
+    <woord>
+      <a>houden van</a>
+      <b>aimer</b>
+    </woord>
+    <woord>
+      <a>een hekel hebben aan</a>
+      <b>détester</b>
+    </woord>
+    <woord>
+      <a>dichtdoen, sluiten</a>
+      <b>fermer</b>
+    </woord>
+    <woord>
+      <a>maken</a>
+      <b>faire</b>
+    </woord>
+    <woord>
+      <a>leren</a>
+      <b>apprendre</b>
+    </woord>
+    <woord>
+      <a>vertellen</a>
+      <b>raconter</b>
+    </woord>
+    <woord>
+      <a>naar huis gaan</a>
+      <b>rentrer</b>
+    </woord>
+    <woord>
+      <a>eten</a>
+      <b>manger</b>
+    </woord>
+    <woord>
+      <a>vinden</a>
+      <b>trouver</b>
+    </woord>
+    <woord>
+      <a>geven</a>
+      <b>donner</b>
+    </woord>
+  </lijst>
+</wrts>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Wrts, http://www.wrts.nl/ -->
+<wrts>
+  <lijst id="86007826">
+    <titel>Grandes Lignes 1 HAVO-VWO 3.4</titel>
+    <datum/>
+    <downloaded>Wed, 25 Sep 2013 16:55:49 +0200</downloaded>
+    <created>Mon, 19 Aug 2013 09:15:11 +0200</created>
+    <updated>Wed, 25 Sep 2013 16:52:32 +0200</updated>
+    <auteur id="2529894">smeets.x@gmail.com</auteur>
+    <taal>
+      <a>Nederlands</a>
+      <b>Frans</b>
+    </taal>
+    <woord>
+      <a>het gezin / de familie</a>
+      <b>la famille</b>
+    </woord>
+    <woord>
+      <a>de oom</a>
+      <b>l'oncle m</b>
+    </woord>
+    <woord>
+      <a>de tante</a>
+      <b>la tante</b>
+    </woord>
+    <woord>
+      <a>de neef</a>
+      <b>le cousin</b>
+    </woord>
+    <woord>
+      <a>de nicht</a>
+      <b>la cousine</b>
+    </woord>
+    <woord>
+      <a>de grootouders</a>
+      <b>les grands-parents m mv</b>
+    </woord>
+    <woord>
+      <a>de opa</a>
+      <b>le grand-père</b>
+    </woord>
+    <woord>
+      <a>de oma</a>
+      <b>la grand-mère</b>
+    </woord>
+    <woord>
+      <a>de vader</a>
+      <b>le père</b>
+    </woord>
+    <woord>
+      <a>de broer</a>
+      <b>le frère</b>
+    </woord>
+    <woord>
+      <a>de zus</a>
+      <b>la sœur</b>
+    </woord>
+    <woord>
+      <a>waarom</a>
+      <b>pourquoi</b>
+    </woord>
+    <woord>
+      <a>wanneer</a>
+      <b>quand</b>
+    </woord>
+    <woord>
+      <a>nu</a>
+      <b>maintenant</b>
+    </woord>
+    <woord>
+      <a>veel</a>
+      <b>beaucoup</b>
+    </woord>
+    <woord>
+      <a>één januari</a>
+      <b>le premier janvier</b>
+    </woord>
+    <woord>
+      <a>februari</a>
+      <b>février</b>
+    </woord>
+    <woord>
+      <a>maart</a>
+      <b>mars</b>
+    </woord>
+    <woord>
+      <a>april</a>
+      <b>avril</b>
+    </woord>
+    <woord>
+      <a>mei</a>
+      <b>mai</b>
+    </woord>
+    <woord>
+      <a>juni</a>
+      <b>juin</b>
+    </woord>
+    <woord>
+      <a>juli</a>
+      <b>juillet</b>
+    </woord>
+    <woord>
+      <a>augustus</a>
+      <b>août</b>
+    </woord>
+    <woord>
+      <a>september</a>
+      <b>septembre</b>
+    </woord>
+    <woord>
+      <a>oktober</a>
+      <b>octobre</b>
+    </woord>
+    <woord>
+      <a>november</a>
+      <b>novembre</b>
+    </woord>
+    <woord>
+      <a>december</a>
+      <b>décembre</b>
+    </woord>
+    <woord>
+      <a>dol zijn op</a>
+      <b>adorer</b>
+    </woord>
+    <woord>
+      <a>liever hebben</a>
+      <b>préférer</b>
+    </woord>
+    <woord>
+      <a>spelen</a>
+      <b>jouer</b>
+    </woord>
+    <woord>
+      <a>voorstellen</a>
+      <b>présenter</b>
+    </woord>
+    <woord>
+      <a>luisteren naar</a>
+      <b>écouter</b>
+    </woord>
+    <woord>
+      <a>schrijven</a>
+      <b>écrire</b>
+    </woord>
+    <woord>
+      <a>de kleur</a>
+      <b>la couleur</b>
+    </woord>
+    <woord>
+      <a>blauw</a>
+      <b>bleu(e)</b>
+    </woord>
+    <woord>
+      <a>roze</a>
+      <b>rose</b>
+    </woord>
+    <woord>
+      <a>rood</a>
+      <b>rouge</b>
+    </woord>
+    <woord>
+      <a>groen</a>
+      <b>vert(e)</b>
+    </woord>
+    <woord>
+      <a>geel</a>
+      <b>jaune</b>
+    </woord>
+    <woord>
+      <a>wit</a>
+      <b>blanc m, blanche v</b>
+    </woord>
+    <woord>
+      <a>zwart</a>
+      <b>noir(e)</b>
+    </woord>
+    <woord>
+      <a>de woonkamer</a>
+      <b>le séjour</b>
+    </woord>
+    <woord>
+      <a>de slaapkamer</a>
+      <b>la chambre</b>
+    </woord>
+    <woord>
+      <a>de badkamer</a>
+      <b>la salle de bains</b>
+    </woord>
+    <woord>
+      <a>beneden</a>
+      <b>en bas</b>
+    </woord>
+    <woord>
+      <a>op de eerste verdieping</a>
+      <b>au premier étage</b>
+    </woord>
+    <woord>
+      <a>op zolder</a>
+      <b>au grenier</b>
+    </woord>
+    <woord>
+      <a>de tv</a>
+      <b>la télé</b>
+    </woord>
+    <woord>
+      <a>de computer</a>
+      <b>l'ordinateur m</b>
+    </woord>
+    <woord>
+      <a>de (kleding)kast</a>
+      <b>l'armoire v</b>
+    </woord>
+    <woord>
+      <a>het bed</a>
+      <b>le lit</b>
+    </woord>
+    <woord>
+      <a>de muur</a>
+      <b>le mur</b>
+    </woord>
+    <woord>
+      <a>aardig</a>
+      <b>sympa</b>
+    </woord>
+    <woord>
+      <a>stom</a>
+      <b>bête</b>
+    </woord>
+  </lijst>
+</wrts>

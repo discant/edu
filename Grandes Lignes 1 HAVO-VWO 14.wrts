@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Wrts, http://www.wrts.nl/ -->
+<wrts>
+  <lijst id="86007759">
+    <titel>Grandes Lignes 1 HAVO-VWO 1.4</titel>
+    <datum/>
+    <downloaded>Wed, 25 Sep 2013 16:55:49 +0200</downloaded>
+    <created>Mon, 19 Aug 2013 09:07:25 +0200</created>
+    <updated>Wed, 25 Sep 2013 16:02:37 +0200</updated>
+    <auteur id="2529894">smeets.x@gmail.com</auteur>
+    <taal>
+      <a>Nederlands</a>
+      <b>Frans</b>
+    </taal>
+    <woord>
+      <a>ja</a>
+      <b>oui</b>
+    </woord>
+    <woord>
+      <a>nee</a>
+      <b>non</b>
+    </woord>
+    <woord>
+      <a>en</a>
+      <b>et</b>
+    </woord>
+    <woord>
+      <a>jij gaat</a>
+      <b>tu vas</b>
+    </woord>
+    <woord>
+      <a>ik heet</a>
+      <b>je m'appelle</b>
+    </woord>
+    <woord>
+      <a>jij praat, spreekt</a>
+      <b>tu parles</b>
+    </woord>
+    <woord>
+      <a>het Frans</a>
+      <b>le français</b>
+    </woord>
+    <woord>
+      <a>het Nederlands</a>
+      <b>le hollandais</b>
+    </woord>
+    <woord>
+      <a>de Fransman</a>
+      <b>le Français</b>
+    </woord>
+    <woord>
+      <a>de Française</a>
+      <b>la Française</b>
+    </woord>
+    <woord>
+      <a>de Nederlander</a>
+      <b>le Hollandais</b>
+    </woord>
+    <woord>
+      <a>de Nederlandse</a>
+      <b>la Hollandaise</b>
+    </woord>
+    <woord>
+      <a>in</a>
+      <b>dans</b>
+    </woord>
+    <woord>
+      <a>met</a>
+      <b>avec</b>
+    </woord>
+    <woord>
+      <a>ook</a>
+      <b>aussi</b>
+    </woord>
+    <woord>
+      <a>daar</a>
+      <b>là</b>
+    </woord>
+    <woord>
+      <a>hier</a>
+      <b>ici</b>
+    </woord>
+    <woord>
+      <a>jij wilt / wil jij?</a>
+      <b>tu veux</b>
+    </woord>
+    <woord>
+      <a>het is</a>
+      <b>c'est</b>
+    </woord>
+    <woord>
+      <a>super</a>
+      <b>super</b>
+    </woord>
+    <woord>
+      <a>te gek</a>
+      <b>génial</b>
+    </woord>
+    <woord>
+      <a>groot</a>
+      <b>grand</b>
+    </woord>
+    <woord>
+      <a>duur</a>
+      <b>cher</b>
+    </woord>
+    <woord>
+      <a>maar</a>
+      <b>mais</b>
+    </woord>
+    <woord>
+      <a>er is / er zijn</a>
+      <b>il y a</b>
+    </woord>
+    <woord>
+      <a>de frietjes</a>
+      <b>les frites v mv</b>
+    </woord>
+    <woord>
+      <a>de thee</a>
+      <b>le thé</b>
+    </woord>
+    <woord>
+      <a>de koffie</a>
+      <b>le café</b>
+    </woord>
+    <woord>
+      <a>de cola</a>
+      <b>le coca</b>
+    </woord>
+    <woord>
+      <a>een ijsje</a>
+      <b>une glace</b>
+    </woord>
+    <woord>
+      <a>het adres</a>
+      <b>l'adresse v</b>
+    </woord>
+    <woord>
+      <a>het telefoonnummer</a>
+      <b>le numéro de téléphone</b>
+    </woord>
+    <woord>
+      <a>de kat</a>
+      <b>le chat</b>
+    </woord>
+    <woord>
+      <a>de hond</a>
+      <b>le chien</b>
+    </woord>
+    <woord>
+      <a>de foto</a>
+      <b>la photo</b>
+    </woord>
+    <woord>
+      <a>de jongen</a>
+      <b>le garçon</b>
+    </woord>
+    <woord>
+      <a>het meisje</a>
+      <b>la fille</b>
+    </woord>
+    <woord>
+      <a>de vriend</a>
+      <b>l'ami m, le copain</b>
+    </woord>
+    <woord>
+      <a>de vriendin</a>
+      <b>l'amie v, la copine</b>
+    </woord>
+    <woord>
+      <a>de ouders</a>
+      <b>les parents m mv</b>
+    </woord>
+    <woord>
+      <a>de broer</a>
+      <b>le frère</b>
+    </woord>
+  </lijst>
+</wrts>

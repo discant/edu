@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Wrts, http://www.wrts.nl/ -->
+<wrts>
+  <lijst id="86007765">
+    <titel>Grandes Lignes 1 HAVO-VWO 2.4</titel>
+    <datum/>
+    <downloaded>Wed, 25 Sep 2013 16:55:49 +0200</downloaded>
+    <created>Mon, 19 Aug 2013 09:08:44 +0200</created>
+    <updated>Wed, 25 Sep 2013 16:03:20 +0200</updated>
+    <auteur id="2529894">smeets.x@gmail.com</auteur>
+    <taal>
+      <a>Nederlands</a>
+      <b>Frans</b>
+    </taal>
+    <woord>
+      <a>vinden</a>
+      <b>trouver</b>
+    </woord>
+    <woord>
+      <a>zoeken</a>
+      <b>chercher</b>
+    </woord>
+    <woord>
+      <a>kijken (naar)</a>
+      <b>regarder</b>
+    </woord>
+    <woord>
+      <a>spreken, praten</a>
+      <b>parler</b>
+    </woord>
+    <woord>
+      <a>wonen</a>
+      <b>habiter</b>
+    </woord>
+    <woord>
+      <a>werken</a>
+      <b>travailler</b>
+    </woord>
+    <woord>
+      <a>houden van, leuk vinden</a>
+      <b>aimer</b>
+    </woord>
+    <woord>
+      <a>dol zijn op</a>
+      <b>adorer</b>
+    </woord>
+    <woord>
+      <a>het winkelcentrum</a>
+      <b>le centre-commercial</b>
+    </woord>
+    <woord>
+      <a>de winkel</a>
+      <b>le magasin</b>
+    </woord>
+    <woord>
+      <a>de bakkerij</a>
+      <b>la boulangerie</b>
+    </woord>
+    <woord>
+      <a>het zwembad</a>
+      <b>la piscine</b>
+    </woord>
+    <woord>
+      <a>de supermarkt</a>
+      <b>le supermarché</b>
+    </woord>
+    <woord>
+      <a>de bioscoop</a>
+      <b>le cinéma</b>
+    </woord>
+    <woord>
+      <a>open</a>
+      <b>ouvert</b>
+    </woord>
+    <woord>
+      <a>gesloten</a>
+      <b>fermé</b>
+    </woord>
+    <woord>
+      <a>WAAR</a>
+      <b>où</b>
+    </woord>
+    <woord>
+      <a>tegenover</a>
+      <b>en face de</b>
+    </woord>
+    <woord>
+      <a>voor (van plaats)</a>
+      <b>devant</b>
+    </woord>
+    <woord>
+      <a>links</a>
+      <b>à gauche</b>
+    </woord>
+    <woord>
+      <a>rechts</a>
+      <b>à droite</b>
+    </woord>
+    <woord>
+      <a>rechtdoor</a>
+      <b>tout droit</b>
+    </woord>
+    <woord>
+      <a>ver</a>
+      <b>loin</b>
+    </woord>
+    <woord>
+      <a>dicht bij</a>
+      <b>tout près de, près de (+ zn)</b>
+    </woord>
+    <woord>
+      <a>in, naar</a>
+      <b>à</b>
+    </woord>
+    <woord>
+      <a>de stad</a>
+      <b>la ville</b>
+    </woord>
+    <woord>
+      <a>het dorp</a>
+      <b>le village</b>
+    </woord>
+    <woord>
+      <a>het centrum van de stad</a>
+      <b>le centre-ville</b>
+    </woord>
+    <woord>
+      <a>het huis</a>
+      <b>la maison</b>
+    </woord>
+    <woord>
+      <a>het appartement, de flat</a>
+      <b>l'appartement m</b>
+    </woord>
+    <woord>
+      <a>de slaapkamer</a>
+      <b>la chambre</b>
+    </woord>
+    <woord>
+      <a>de keuken</a>
+      <b>la cuisine</b>
+    </woord>
+    <woord>
+      <a>maandag</a>
+      <b>lundi m</b>
+    </woord>
+    <woord>
+      <a>dinsdag</a>
+      <b>mardi m</b>
+    </woord>
+    <woord>
+      <a>woensdag</a>
+      <b>mercredi m</b>
+    </woord>
+    <woord>
+      <a>donderdag</a>
+      <b>jeudi m</b>
+    </woord>
+    <woord>
+      <a>vrijdag</a>
+      <b>vendredi m</b>
+    </woord>
+    <woord>
+      <a>zaterdag</a>
+      <b>samedi m</b>
+    </woord>
+    <woord>
+      <a>zondag</a>
+      <b>dimanche m</b>
+    </woord>
+    <woord>
+      <a>hoeveel</a>
+      <b>combien</b>
+    </woord>
+    <woord>
+      <a>alstublieft (als je iets vraagt)</a>
+      <b>s'il vous plaît</b>
+    </woord>
+    <woord>
+      <a>alstublieft (als je iets geeft)</a>
+      <b>voilà, voici</b>
+    </woord>
+    <woord>
+      <a>goed</a>
+      <b>bien</b>
+    </woord>
+    <woord>
+      <a>oké</a>
+      <b>d'accord</b>
+    </woord>
+    <woord>
+      <a>klein</a>
+      <b>petit(e)</b>
+    </woord>
+    <woord>
+      <a>mooi</a>
+      <b>beau, belle</b>
+    </woord>
+  </lijst>
+</wrts>
